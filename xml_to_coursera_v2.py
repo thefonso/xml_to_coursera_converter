@@ -1,5 +1,5 @@
 """Fill the Coursera template's 'FOR IMPORT' tab from a Xyleme WebCourse XML export.
-Usage: python xml_to_coursera.py course.xml template.xlsx output.xlsx
+Usage: python xml_to_coursera_v2.py course.xml template.xlsx output.xlsx
 Requires: pip install openpyxl
 """
 import sys, copy, datetime as dt
